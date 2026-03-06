@@ -1,4 +1,4 @@
-# Ref-AI-ASEPCTS
+# Ref-AI-ASPECTS
 
 Based on the scoring practices of experts, we have optimized the regions of the ASPECTS scoring template for ischemic stroke. Through experiments examining the correlation between our scoring method and prognostic predictions, we have defined a superior scoring approach, as shown in Equation 1:
 
